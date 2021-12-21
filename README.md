@@ -16,7 +16,7 @@
 <span><img src="https://img.shields.io/badge/Redux-764abc?style=flat&logo=redux&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Saga-89d96d?style=flat&logo=redux-saga&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span>
-- Back-end : <span><img src="https://img.shields.io/badge/NodeJs-3776AB?style=flat&logo=node&logoColor=white"/></span>
+- Back-end : <span><img src="https://img.shields.io/badge/Node-3776AB?style=flat&logo=node&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MongoDb-092e20?style=flat&logo=Mongodb&logoColor=white"/></span>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
