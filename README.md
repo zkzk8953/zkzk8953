@@ -1,18 +1,10 @@
-<h1> WELCOME TO MY GITHUB 🙏 </h1>
+# WELCOME TO MY GITHUB 🙏 
 
-![zkzk8953's github stats](https://github-readme-stats.vercel.app/api?username=zkzk8953&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkzk8953&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkzk8953&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
-![zkzk8953's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zkzk8953&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
-
-<ul>
-  <li>
-    <h1>Profile</h1>
-  </li>
-  <li>
-  </li>
-
-</ul>
+# ▎Profile
 
 
 
