@@ -4,12 +4,12 @@
 
 ![zkzk8953's github stats](https://github-readme-stats.vercel.app/api/top-langs/? username=zkzk8953&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
+
 <ul>
   <li>
     <h1>Profile</h1>
   </li>
   <li>
-    <h1>Profile</h1>
   </li>
 
 </ul>
