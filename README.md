@@ -22,9 +22,10 @@
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 - Communication : <span><img src="https://img.shields.io/badge/Zeplin-ffbe22?style=flat"/></span>
 # ▎Blog For Learning
-
+https://hunsenal.tistory.com/
 
 # ▎Portfolio Website
+https://portfolio.hunsenal.pe.kr/
 <!--
 **zkzk8953/zkzk8953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
